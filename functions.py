@@ -1,8 +1,4 @@
 
-
-from tkinter import N
-
-
 def numbers(x:int):
     '''This function takes 1 parameter of type int , then it prints out the result  '''
     
@@ -17,3 +13,4 @@ def numbers(x:int):
 numbers(5)
 
 print(numbers.__doc__)
+
